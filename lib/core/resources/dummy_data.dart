@@ -27,7 +27,7 @@ List<VideoModel> videosList = [
       id: '1',
       name: 'Mo Salah',
       avatar:
-          'https://scontent.fcai20-2.fna.fbcdn.net/v/t39.30808-6/415112630_968953824589575_8956224801862747014_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wEFhGMFnD8cAX8DuNDE&_nc_ht=scontent.fcai20-2.fna&oh=00_AfDN0vkgh4ltemEqt_A8Ix-BSV2gPbqW92KfsaS1wJhonA&oe=66057D47',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS21tFcvbd13yu8NBvk6yPHYHJ1HiRRNcVjuQ&usqp=CAU',
     ),
   ),
   VideoModel(

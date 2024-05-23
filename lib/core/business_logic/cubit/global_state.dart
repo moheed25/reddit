@@ -6,7 +6,7 @@ part 'global_state.freezed.dart';
 class GlobalState<T> with _$GlobalState<T> {
   const factory GlobalState.idle() = Idle<T>;
 
-
+ 
 
 }
 

@@ -9,7 +9,7 @@ class AssetsManager {
 
   //-----------------
   static const logoLottie = '$lottiePath/reddit.json';
-
+  
   //-----------------
 
   static const video1 = '$videoPath/video_1.mp4';
